@@ -1,0 +1,7 @@
+docs:
+  - changed-files:
+      - any-glob-to-any-file: 'docs/**'
+
+app:
+  - changed-files:
+      - any-glob-to-any-file: 'app/**'
